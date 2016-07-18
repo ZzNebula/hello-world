@@ -1,2 +1,2 @@
 # hello-world
-first repository
+You know it L.A, it's so jammin'!
